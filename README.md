@@ -1,4 +1,4 @@
-# Homework1: Simple WebScraping#
+# Homework1: Simple WebScraping
 ### PACKT editor available book ###
 
 Aquest repositori conté un script en python que comprova cada cop que s'executa, el títol i la descripció del llibre que hi ha disponible per descarregar gratuïtament a la pàgina https://www.packtpub.com/packt/offers/free-learning/ i l'imprimeix per pantalla.
